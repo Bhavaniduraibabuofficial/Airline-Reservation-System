@@ -1,2 +1,2 @@
 # Airline-Reservation-System
-A simple Airline Reservation System that allows users to search flights, book tickets, and manage reservations with database integration and CRUD operations.
+This project is an Airline Reservation System built to streamline the process of flight booking and management. It provides features such as flight search, ticket booking, reservation management, and viewing booking details. The system demonstrates key concepts of database management, CRUD operations, and user interface design, making it a practical implementation of software development for real-world applications.
